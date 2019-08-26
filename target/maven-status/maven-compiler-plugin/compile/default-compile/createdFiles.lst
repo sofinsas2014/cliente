@@ -1,0 +1,6 @@
+com\mievaluacion\backend\cliente\SpringBootBackendApirestClienteApplication.class
+com\mievaluacion\backend\cliente\models\services\ClienteService.class
+com\mievaluacion\backend\cliente\controllers\ClienteRestController.class
+com\mievaluacion\backend\cliente\models\dao\ClienteDao.class
+com\mievaluacion\backend\cliente\models\entity\Cliente.class
+com\mievaluacion\backend\cliente\models\services\ClienteServiceImpl.class
